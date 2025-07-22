@@ -53,7 +53,7 @@ Para executar este projeto, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/IgorCostaRodrigues/dados.git)
     ```
 2.  **Instale as dependências:**
     Certifique-se de que tem as bibliotecas necessárias instaladas.
